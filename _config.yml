@@ -1,6 +1,10 @@
-theme: texture
+theme: jekyll-theme-cayman
 remote_theme: thelehhman/texture
+<<<<<<< HEAD
 title: I love CaiXukun 
+=======
+title: loveck
+>>>>>>> b90347321feb685088c4c9c51fcb685547f0169f
 author: GitHub User
 email: cz1084948263@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
